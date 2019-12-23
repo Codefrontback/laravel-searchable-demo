@@ -26,7 +26,7 @@
 <div class="container">
     <div class="search-result" style="margin-top: 20px;">
         <p>Search Result</p>
-        <table class="table table-bordered"> 
+        <table class="table table-bordered">
             <tr>
                 <th>Title</th>
             </tr>
