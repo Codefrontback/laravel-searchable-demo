@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c6ce53d-dc0a-4192-8d53-6d582e6074a6" name="Default Changelist" comment="laravel framework update">
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-searchable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-searchable.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/search-result.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/search-result.blade.php" afterDir="false" />
     </list>
@@ -151,7 +150,8 @@
       <workItem from="1566294221692" duration="6824000" />
       <workItem from="1566363469643" duration="8157000" />
       <workItem from="1566886978428" duration="2914000" />
-      <workItem from="1586328744810" duration="587000" />
+      <workItem from="1586328744810" duration="694000" />
+      <workItem from="1589436404014" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="laravel framework update">
       <created>1552446852454</created>
